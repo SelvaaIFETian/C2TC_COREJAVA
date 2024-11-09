@@ -18,7 +18,7 @@ public class ArrayClassDemo {
 		System.out.println("-----------------After Sorting---------------");
 		System.out.println("Array is : "+Arrays.toString(intArr));
 
-		int intKey = 22;
+		int intKey = 12;
 
 		// Print the key and corresponding index
 		// Array must be sorted in ascending order for the binary search

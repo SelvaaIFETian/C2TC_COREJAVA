@@ -36,8 +36,8 @@ public class Driver {
 		System.out.println();
 		System.out.println("---------------------------------------");
 
-		int c[];
-		// ArrayOperations.printArray(c); //CTE
+		int c[]= {1};
+		ArrayOperations.printArray(c); //CTE
 
 	}
 

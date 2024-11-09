@@ -1,5 +1,6 @@
 package tns.ifet.dayeight.array;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class MultiDimArray {
@@ -21,7 +22,10 @@ public class MultiDimArray {
 //				System.out.print(a[i][j]+" ");
 //			}
 //		}
-		MLArray.printArray(a);
+		//use of user define method
+//		MLArray.printArray(a);
+//		//using toString method
+//		System.out.println(Arrays.toString(a));
 	}
 
 }

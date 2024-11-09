@@ -1,5 +1,6 @@
 package tns.ifet.dayeight.array;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class SingleDimArray {
@@ -16,6 +17,8 @@ public class SingleDimArray {
 		for(int i=0;i<r;i++) {
 				System.out.print(a[i]+" ");
 		}
+		//using toString method
+		System.out.println(Arrays.toString(a));
 	}
 
 }
